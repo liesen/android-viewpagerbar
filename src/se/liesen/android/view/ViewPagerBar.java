@@ -40,7 +40,7 @@ public class ViewPagerBar extends TextView implements ViewPager.OnPageChangeList
   private TextPaint mHighlightPaint;
 
   /**
-   * Default constructor
+   * @param context
    */
   public ViewPagerBar(Context context) {
     super(context);
@@ -48,8 +48,6 @@ public class ViewPagerBar extends TextView implements ViewPager.OnPageChangeList
   }
 
   /**
-   * The contructor used with an inflater
-   * 
    * @param context
    * @param attrs
    */
