@@ -1,0 +1,1 @@
+Simple view to accompany a ViewPager (from Android support library v 4). Heavily based on http://github.com/pakerfeldt/android-viewflow but a bit simpler in that it only renders three texts and re-uses much of the functionality of a standard TextView.
